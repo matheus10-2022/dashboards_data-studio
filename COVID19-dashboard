@@ -1,8 +1,9 @@
+LINK: https://lookerstudio.google.com/reporting/d9fe4e39-d1b0-4c5d-ac84-98a8fef6a43b
+
 Dahsboard sobre o vírus da COVID-19, feito apartir dos dados extraídos da Universidade de John Hopkins
 e vacinação apartir dos dados da Universidade de Oxford, no período de 2021. (link das fontes abaixo:)
 
-fontes: 
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports (casos)
 https://covid.ourworldindata.org/data/owid-covid-data.csv (vacinação)
 
-Link: https://lookerstudio.google.com/reporting/d9fe4e39-d1b0-4c5d-ac84-98a8fef6a43b
+

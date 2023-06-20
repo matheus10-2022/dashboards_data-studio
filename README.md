@@ -1,2 +1,2 @@
 # Dashboards
-Links com os Dashbords iniciais, feitos na plataforma Google Data Studio.
+Links com os Dashbords feitos na plataforma Google Data Studio.

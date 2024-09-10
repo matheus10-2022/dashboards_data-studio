@@ -1,5 +1,5 @@
 # Dashboards
-Links com os Dashboards feitos durante minha trajetória profissional, incluidno:
+Links com os Dashboards feitos durante minha trajetória profissional, incluindo:
 
 - Cursos
 - Projetos livres
